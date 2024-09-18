@@ -1,0 +1,15 @@
+{
+    "name": "vnlab/php",
+    "autoload": {
+        "psr-4": {
+            "Vnlab\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Phan Ba Ninh",
+            "email": "ninhpb@vietnamlab.vn"
+        }
+    ],
+    "require": {}
+}
